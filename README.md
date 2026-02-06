@@ -31,7 +31,7 @@ git clone https://github.com/kethu2001/Assignment-ACG.git
 
 ### Launch the project
 
-* Direct Browser Opening**
+* Direct Browser Opening
 * Open `index.html` directly in your browser
 
 ---
