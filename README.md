@@ -22,7 +22,7 @@ Ensure you have the following before getting started:
 
 ### Clone or download the repository
 ```bash
-git clone https://github.com/yourusername/travel-website.git
+git clone https://github.com/kethu2001/Assignment-ACG.git
 ```
 
 ### Open the project in a code editor
