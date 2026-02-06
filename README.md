@@ -38,7 +38,7 @@ git clone https://github.com/kethu2001/Assignment-ACG.git
 
 ## 📁 Project Structure
 ```
-travel-website/
+Project/
 │
 ├── index.html              # Main HTML file
 ├── README.md              # Project documentation
